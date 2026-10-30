@@ -10,7 +10,7 @@
    T1 = suhu di sisi lain (K)
    X  = tebal penghantar (m)
 
-   CATATAN POINTER (untuk pemula)
+   CATATAN POINTER
    - Tanda & mengambil ALAMAT sebuah variabel.
    - Tanda * pada pointer mengambil/mengubah ISI variabel yang ditunjuk.
    - Fungsi calc_... di bawah mengirim hasil hitungannya lewat pointer
